@@ -1,6 +1,5 @@
 # NARASIMHMAMURTHY4616.github.io
 this is my portfolio
-# naguballa77.github.io
 # 👋 Hi, I'm Naga Veera Venkata Satya Narasimha Murthy (Nagu)
 
 ### 💻 Aspiring Ethical Hacker | Computer Engineering Student | Lifelong Learner
@@ -46,14 +45,14 @@ This portfolio showcases my journey in programming, projects, and continuous lea
 
 ## 🌟 Projects
 
-* 🕵️‍♂️ **Ransom ware ** - A simulated ransome ware li ssh [https://github.com/NARASIMHAMURTHY4616/RANSOMEWARE_SIMULATION]
-* 🌐 **Portfolio Website** – A personal website to showcase my skills, projects, and achievements
+* 🕵️‍♂️ **Ransom ware** - A simulated ransome ware li ssh [[repo](https://github.com/NARASIMHAMURTHY4616/RANSOMEWARE_SIMULATION)]
+  
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: [https://github.com/NARASIMHAMURTHY4616](#)
+* GitHub: [[https://github.com/NARASIMHAMURTHY4616](#)]
 * Email: [[ballanarasimhamurthy77@gmail.com](mailto:ballanarasimhamurthy77@gmail.com)]
 
 ---
