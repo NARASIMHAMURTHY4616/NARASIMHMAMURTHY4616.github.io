@@ -56,7 +56,7 @@ This portfolio showcases my journey in programming, projects, and continuous lea
 * Email: [[ballanarasimhamurthy77@gmail.com](mailto:ballanarasimhamurthy77@gmail.com)]
 
 ---
-## my portfolio : [[this is me ](https://narasimhamurthy4616.github.io/)]
+## my  [[portfolio](https://narasimhamurthy4616.github.io/)]
 
 ---
 
